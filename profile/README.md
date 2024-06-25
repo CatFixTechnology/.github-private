@@ -25,7 +25,7 @@
 ## Probably a good idea to read the instructions
 <br>
 <br>
-<img src ="Assets/read_the_instructions.jpg" alt ="read instructions for .github private repo width="800" height="700">
+<img src ="Assets/read_the_instructions.jpg" alt ="read instructions for .github private repo" width= "900" height="700">
 
 # That's okay we still have a high 5 moment
 
