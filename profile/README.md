@@ -5,8 +5,8 @@
     <td align="left">Public View</td>
   </tr>
   <tr>
-    <td align="left"><img src="Assets/View As A Member.jpg" alt="Dashboard view as a member" width="700" height="500"></td>
-    <td align="right"><img src="Assets/public repo.jpg" alt="Public repository view" width="700" height="500"></td>
+    <td align="left"><img src="/Assets/View As A Member.jpg" alt="Dashboard view as a member" width="700" height="500"></td>
+    <td align="right"><img src="/Assets/public repo.jpg" alt="Public repository view" width="700" height="500"></td>
   </tr>
 </table>
 
@@ -15,17 +15,17 @@
 
 # Location is not in the .github repo! You have to create a repo called .gihub private
 
-<img src="Assets/private-repo.jpg" alt="private repo" width="800" height="700">
+<img src="/Assets/private-repo.jpg" alt="private repo" width="800" height="700">
 
 
 # Got this one wrong on the first swing
 
-<img src="Assets/First Attempt.jpg" alt="First Attempt" width="800" height="700">
+<img src="/Assets/First Attempt.jpg" alt="First Attempt" width="800" height="700">
 
 ## Probably a good idea to read the instructions
 <br>
 <br>
-<img src ="Assets/read_the_instructions.jpg" alt ="read instructions for .github private repo" width= "900" height="700">
+<img src ="/Assets/read_the_instructions.jpg" alt ="read instructions for .github private repo" width= "900" height="700">
 
 # That's okay we still have a high 5 moment
 
